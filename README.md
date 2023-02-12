@@ -1,7 +1,7 @@
 # House Of Waris
 E-commerce Website using MERN Stack
 
-###TECHNOLOGIES USED###
+### TECHNOLOGIES USED ###
 
 1. React
 2. MongoDB
@@ -9,7 +9,7 @@ E-commerce Website using MERN Stack
 4. Node.js
 
 
-###ROLE - FRONTEND###
+### ROLE - FRONTEND ###
 
 
 ![displayPage](https://user-images.githubusercontent.com/113473052/218327699-f3a3df77-021b-48fb-b2ab-6d1da131f4d8.jpg)
